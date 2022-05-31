@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "showcase-dbb98": {
+      "hosting": {
+        "showcase": [
+          "showcase-dbb98"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "showcase-dbb98"
+  }
+}
